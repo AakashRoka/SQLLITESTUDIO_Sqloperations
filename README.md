@@ -1,0 +1,1 @@
+# SQLLITESTUDIO_Sqloperations
